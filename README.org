@@ -1,0 +1,38 @@
+#+TITLE: bomberman-terminal
+#+AUTHOR: Sounak Pradhan
+#+EMAIL: sounak.pradhan@research.iiit.ac.in
+
+* Bomberman Terminal
+  - This version of Boomberman can be played by first selecting the level.
+
+  - Controls
+    |Key|Action|
+    |---+------|
+    |w/i|Up|
+    |a/j|Left|
+    |s/k|Down|
+    |d/l|Right|
+    |x|Plant Bomb|
+    |q|Quit|
+
+  - Bomb blasts 4 seconds after it is being planted.
+
+  - Higher levels have faster and more monsters.
+
+* Running the game
+** Installing dependencies
+   - Install =python3=
+
+   - Install =pip3=
+
+   - Install =colorterm=
+     #+BEGIN_SRC bash
+     pip3 install colorterm
+     #+END_SRC
+
+** Running the game
+   - Run the game
+     #+BEGIN_SRC bash
+     chmod 755 run.py
+     ./run.py
+     #+END_SRC

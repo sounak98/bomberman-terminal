@@ -1,7 +1,0 @@
-This version of Bomberman can be played by first selecting the level
-and then using w/a/s/d or i/j/k/l for up/left/down/right respectively.
-q can be used to quit from the game and x is used to place the bomb.
-Each bomb detonates after 4 seconds approximately. Higher levels have
-higher speeds of monsters and more number of monsters too.
-
-The game can be run using the executable script run.py.
